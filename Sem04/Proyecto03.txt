@@ -1,0 +1,15 @@
+La tienda "TODO BARATO" tiene la siguiente
+promoción de descuento por día de la semana:
+
+- Lunes: 5% en todo tipo de Arraz
+- Martes: 10% en todo Menestras
+- Miercoles: 8% en Carnes 
+- Jueves: 7% en licores
+- Viernes: 6% en Embutidos
+- Sabado: 8% en Frutas
+- Domingo: 10% en el importe total si es mayor 
+           o igual a 200 soles.
+
+Desarrollar un programa para calcular 
+una venta.
+
