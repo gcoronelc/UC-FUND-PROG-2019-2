@@ -1,0 +1,6 @@
+Desarrollar un programa para
+encontrar los días de un mes,
+de un determinado año.
+
+¿Cuántos días tiene un mes?
+

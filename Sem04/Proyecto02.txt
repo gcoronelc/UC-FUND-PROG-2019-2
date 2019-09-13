@@ -1,0 +1,8 @@
+Desarrollar un programa para
+encontrar el promedio de un
+estudiante, son 4 notas y 
+se elimina la menor.
+También debe mostrar su condición
+de aprobado o desaprobado.
+La nota minima para aprobar
+es 14.
