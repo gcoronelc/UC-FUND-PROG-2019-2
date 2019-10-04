@@ -1,0 +1,46 @@
+--------------------------------------------------------------
+PROYECTO 1
+--------------------------------------------------------------
+
+Un padre con la intensión de motivar el estudio en su Hijo,
+le dice que sera compensado según su promedio final del ciclo.
+
+La compensación es monetaria, según el siguiente cuadro:
+
+RANGO DE NOTA          FACTOR A MULIPLICAR
+-----------------------------------------------
+0  - 5                  50
+6  - 12                 80
+13 - 17                 120
+18 - 20                 150
+-----------------------------------------------
+
+Por ejemplo:
+
+Si el promedio es: 13
+La compensación es: 1,560.0
+
+
+--------------------------------------------------------------
+PROYECTO 2
+--------------------------------------------------------------
+
+Se necesita un programa que permita a un profesional 
+calcular el impuesto a la renta anual 2018.
+
+Por ejemplo, si los ingresos otales de un profesional
+es de 178,000.00 Soles, cuanto es lo que debe pagar 
+de impuesto a la renta.
+
+
+
+
+
+
+
+
+
+
+
+
+
