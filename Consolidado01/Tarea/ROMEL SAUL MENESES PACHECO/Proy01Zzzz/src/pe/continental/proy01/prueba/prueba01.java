@@ -6,7 +6,7 @@ public class prueba01 {
 
   public static void main(String[] args) {
     //Datos
-    double pagoxhora = 120.0;
+    double pagoxhora = 1.0;
     int canthorastrabajadas = 6;
     int cantdiastrabajados = 28;
     int hijosmenores = 3;
