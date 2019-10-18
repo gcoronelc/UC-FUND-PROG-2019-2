@@ -30,7 +30,7 @@ Se debe aplicar los siguientes principios:
 - Principio DRY
 - Principio KISS
 - Principio YAGNI
-- Mala denominación de variables
+- Nombres de variables descriptivos
 
 
 
