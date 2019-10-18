@@ -7,13 +7,13 @@ le dice que sera compensado según su promedio final del ciclo.
 
 La compensación es monetaria, según el siguiente cuadro:
 
- TRAMO RANGO DE NOTA    RANGO     FACTOR A MULIPLICAR
-------------------------------------------------------
-  1    0  - 5            5        50
-  2    6  - 12           7        80
-  3    13 - 17           5        120
-  4    18 - 20           3        150
-------------------------------------------------------
+ TRAMO   RANGO DE NOTA      RANGO     FACTOR A MULIPLICAR
+----------------------------------------------------------
+  1      0  - 5              5        50
+  2      6  - 12             7        80
+  3      13 - 17             5        120
+  4      18 - 20             3        150
+----------------------------------------------------------
 
 Por ejemplo:
 

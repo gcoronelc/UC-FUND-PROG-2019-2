@@ -1,0 +1,38 @@
+La Empresa de Telefonia "HABLA BIEN" esta realizando
+una campaña en beneficio del deporte de tu región.
+
+Esta campaña consiste en donar un porcentaje del consumo 
+para realizar obras en beneficio del deporte.
+
+El siguiente cuadro permite calcular
+el porcentaje donado por rangos de consumo.
+
+El rango de consumo se expresa en minutos.
+El costo por minuto esta expresado en Soles.
+
+         RANGO          COSTO          PORCENTAJE
+ TRAMO   DE CONSUMO     POR MINUTO     PARA DONACION
+-------------------------------------------------
+   1     01 - 50        1.30           1.8 %
+   2     51 - 80        1.20           2.0 %
+   3     81 - 150       1.10           2.5 %
+   4     151 - 300      1.00           3.0 %
+   5     301 - a mas    0.70           4.0 %
+-------------------------------------------------
+
+Desarrollar un programa que permita calcular 
+el importe a pagar y el importe para donación.
+
+
+Se debe aplicar los siguientes principios:
+
+- Divide y venceras
+- Principio DRY
+- Principio KISS
+- Principio YAGNI
+- Mala denominación de variables
+
+
+
+
+
