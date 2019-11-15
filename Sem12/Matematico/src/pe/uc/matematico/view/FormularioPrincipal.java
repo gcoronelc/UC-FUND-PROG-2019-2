@@ -23,6 +23,8 @@ public class FormularioPrincipal extends javax.swing.JFrame {
     exitMenuItem = new javax.swing.JMenuItem();
     menuMatematica = new javax.swing.JMenu();
     menuMatematicaAreaTriangulo = new javax.swing.JMenuItem();
+    menuProyectos = new javax.swing.JMenu();
+    menuProyectosHablaBien = new javax.swing.JMenuItem();
 
     setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
     setTitle("PROYECTOS DEL CURSO");
@@ -53,6 +55,18 @@ public class FormularioPrincipal extends javax.swing.JFrame {
 
     menuBar.add(menuMatematica);
 
+    menuProyectos.setText("Proyectos");
+
+    menuProyectosHablaBien.setText("Habla Bien");
+    menuProyectosHablaBien.addActionListener(new java.awt.event.ActionListener() {
+      public void actionPerformed(java.awt.event.ActionEvent evt) {
+        menuProyectosHablaBienActionPerformed(evt);
+      }
+    });
+    menuProyectos.add(menuProyectosHablaBien);
+
+    menuBar.add(menuProyectos);
+
     setJMenuBar(menuBar);
 
     javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -78,6 +92,12 @@ public class FormularioPrincipal extends javax.swing.JFrame {
     desktopPane.add(view);
     view.setVisible(true);
   }//GEN-LAST:event_menuMatematicaAreaTrianguloActionPerformed
+
+  private void menuProyectosHablaBienActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_menuProyectosHablaBienActionPerformed
+    JInternalFrame view = new PagoView();
+    desktopPane.add(view);
+    view.setVisible(true);
+  }//GEN-LAST:event_menuProyectosHablaBienActionPerformed
 
   /**
    * @param args the command line arguments
@@ -121,6 +141,8 @@ public class FormularioPrincipal extends javax.swing.JFrame {
   private javax.swing.JMenuBar menuBar;
   private javax.swing.JMenu menuMatematica;
   private javax.swing.JMenuItem menuMatematicaAreaTriangulo;
+  private javax.swing.JMenu menuProyectos;
+  private javax.swing.JMenuItem menuProyectosHablaBien;
   // End of variables declaration//GEN-END:variables
 
 }
